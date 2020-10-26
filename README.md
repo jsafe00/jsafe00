@@ -1,5 +1,5 @@
 ### Hi there 👋
-##### I like listening to music while I'm coding. It helps me to think clearly.  
+##### I like listening to music while I'm coding. It helps me to focus.  
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=12149768962)
 
 <!--

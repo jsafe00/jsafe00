@@ -1,4 +1,6 @@
 ### Hi there 👋
+##### I like listening to music while I'm coding. It helps me to think clearly.  
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=12149768962)
 
 <!--
 **jsafe00/jsafe00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

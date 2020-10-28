@@ -1,6 +1,6 @@
-<img src="https://media.giphy.com/media/U7bl3Rw7ya7isgzVt3/giphy.gif" width="250" height="250"/>
-###### I like listening to music while I'm coding. It helps me to focus.  
+<img src="https://media.giphy.com/media/U7bl3Rw7ya7isgzVt3/giphy.gif" width="100" height="100"/>
 
+#### I like listening to music while I'm coding. It helps me to focus.  
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=12149768962)
 
 <!--

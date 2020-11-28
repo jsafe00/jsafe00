@@ -1,8 +1,4 @@
-<img src="https://media.giphy.com/media/U7bl3Rw7ya7isgzVt3/giphy.gif" width="100" height="100"/><img src="https://media.giphy.com/media/26wfQrP51M7TJGBiHL/giphy.gif" width="100" height="100"/>
-
-
-#### I like listening to music while I'm coding. It helps me to focus.  
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=12149768962)
+<img src="https://media.giphy.com/media/xHEPtVlwQ4sJs07clI/giphy.gif" width="200" height="200"/>
 
 <!--
 **jsafe00/jsafe00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

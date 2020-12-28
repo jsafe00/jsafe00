@@ -1,4 +1,4 @@
-<a href="http://safventure.tech" target="_blank">Sparks project</a> <br>
+🔭 I’m currently working on <a href="http://safventure.tech" target="_blank">Sparks side project</a> <br>
 
 <img src="https://media.giphy.com/media/FPbnShq1h1IS5FQyPD/giphy.gif" width="200" height="130">
 

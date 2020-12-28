@@ -1,4 +1,5 @@
-<a href="http://safventure.tech" target="_blank">Sparks project</a> 
+<a href="http://safventure.tech" target="_blank">Sparks project</a> <br>
+<a href="https://www.w3schools.com" target="_blank">Visit W3Schools!</a>
 
 <img src="https://media.giphy.com/media/FPbnShq1h1IS5FQyPD/giphy.gif" width="200" height="130">
 

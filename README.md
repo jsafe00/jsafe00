@@ -1,4 +1,6 @@
-- 🌱 I’m currently working on <a href="https://safventure.live" target="_blank">My wealth of nations toy project</a>
+- 🌱 I’m currently working on <br>
+            - <a href="https://safventure.live" target="_blank">My wealth of nations toy project</a> <br>
+            - <a href="http://safventure.tech" target="_blank">Book Review Summary</a> (I wrote so much spoilers on my book reviews in Goodreads. 😄😄😄 So I decided to create my                own book review summary blog.)  
 - 🔭 I’m currently exploring/learning better?/other ways for API calls - <a href="https://haruki-murakami-quotes.herokuapp.com/api/v1/quotes" target="_blank">Haruki Murakami Quotes</a>
 
 <img src="https://media.giphy.com/media/FPbnShq1h1IS5FQyPD/giphy.gif" width="200" height="130">

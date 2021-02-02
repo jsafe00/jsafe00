@@ -3,7 +3,7 @@
             - <a href="http://safventure.tech" target="_blank">My book review blog</a>
 - 🔭 I’m currently exploring/learning better?/other ways for API calls - <a href="https://haruki-murakami-quotes.herokuapp.com/api/v1/quotes" target="_blank">Haruki Murakami Quotes</a>
 
-- ⚡ Fun fact: I'm currently learning about wine 🍷. (My resources: https://winefolly.com || https://github.com/sandoche/Wine-Flashcards-Anki)
+- ⚡ Fun fact: I'm currently learning about wine 🍾🍷. (My resources: https://winefolly.com || https://github.com/sandoche/Wine-Flashcards-Anki)
 
 <img src="https://media.giphy.com/media/FPbnShq1h1IS5FQyPD/giphy.gif" width="200" height="130">
 

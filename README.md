@@ -1,5 +1,5 @@
 - 🌱 I’m currently working on: <br>
-       - Just trying to get better of everything that interests me. Follow me at Goodreads: https://www.goodreads.com/user/show/52843864-saf-venture
+       - Just trying to get better with everything that interests me. Follow me at Goodreads: https://www.goodreads.com/user/show/52843864-saf-venture
            
 - 🔭 I’m currently exploring/learning better?/other ways for API calls - <a href="https://haruki-murakami-quotes.herokuapp.com/api/v1/quotes" target="_blank">Haruki Murakami Quotes</a>
 

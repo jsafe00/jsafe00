@@ -1,8 +1,6 @@
 <img src="https://media.giphy.com/media/FPbnShq1h1IS5FQyPD/giphy.gif" width="200" height="130">
 <img src="https://media.giphy.com/media/26tnf4N1UU76oOAHm/giphy.gif">
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jsafe00&show_icons=true&theme=radical)
-
 <!--
 **jsafe00/jsafe00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

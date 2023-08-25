@@ -1,4 +1,4 @@
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=12149768962&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true)](https://spotify-github-profile.vercel.app/api/view?uid=12149768962&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=12149768962&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=12149768962&redirect=true)
 <br />
 <a href="https://open.spotify.com/user/12149768962?si=3146d59488e149c1" target="_blank">spotify</a>
 
